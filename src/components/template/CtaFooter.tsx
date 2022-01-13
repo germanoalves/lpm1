@@ -13,7 +13,7 @@ export default function Ctafooter() {
                         <a href="#"><button className="bg-orange py-4 px-2 rounded-md text-white text-ft font-pp font-extra-bold tracking-wide mt-6 relative md:px-16 md:py-4">Quero conhecer a plataforma</button></a>    
                     </div>
                     <div className="transform rotate-90 mt-5 mr-0 md:rotate-0 md:-mt-32 md:-mr-48">
-                        <Image src="/images/seta.svg" width="167" height="134" />
+                        <Image src="/images/seta.svg" width={167} height={134} />
                     </div>
                     </div>
             </div>    
