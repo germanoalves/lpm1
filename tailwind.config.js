@@ -31,6 +31,9 @@ module.exports = {
       fontWeight: {
         'extra-bold': 700,
       },
+      width: {
+          '96':'32rem',
+      },
 
     }, 
   },

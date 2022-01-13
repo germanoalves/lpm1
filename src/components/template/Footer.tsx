@@ -5,7 +5,7 @@ export default function Footer() {
     return (
     <div>
        <div className="flex justify-center items-center ">
-          <h2 className="text-blue font-mt font-bold text-tth1 mb-9">Perguntas Frequentes (FAQ)</h2>
+          <h2 className="text-blue font-mt font-bold text-tth1 mb-9 px-4 md: px-0">Perguntas Frequentes (FAQ)</h2>
       </div>
       <div className="flex justify-center items-center max-w-7xl mx-auto px-24">
          <ul className="list-disc">

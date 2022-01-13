@@ -17,7 +17,7 @@ export default function Home() {
     <>
      <div>
       <Head>
-        <title> Landing Page Maestrus </title>
+        <title> Plataforma EAD Maestrus </title>
         <meta httpEquiv="content-language" content="pt-br"/>
         <meta httpEquiv="content-type" content="text/html; charset=UTF-8" />
         <meta name="author" content="Maestrus" />
@@ -31,6 +31,7 @@ export default function Home() {
         <meta property="og:url" content="https://maestrus.com" />
         <meta property="og:site_name" content="Maestrus" />
         <meta property="og:image" content= "https://site.mstatic.com.br/img/home/educacao_a_distancia.png" />
+        <link rel="shortcut icon" href="/favico.ico" />
         </Head>
      </div>
       <div className="bg-img-top bg-no-repeat bg-cover bg-left-bottom xl: pt-5"> 
