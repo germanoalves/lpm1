@@ -16,6 +16,7 @@ module.exports = {
         blue: '#2B66BD',
         gray: '#545454',
         orange: '#FF6000',
+        horange:'#FE9A2E',
       },
       fontSize: {
         ftsqr: '14px',

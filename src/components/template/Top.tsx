@@ -10,7 +10,7 @@ export default function Top() {
                      <p className="text-titles text-2xftsqr font-pp text-left">Diminua gastos com aluguéis, infraestrutura e deslocamente. Faça entrevistas, contrate e <strong>treine</strong> toda a sua equipe,<br/>através da internet.</p>
                 </div>
                 <div>
-                    <Image src="/images/modelotopo.png" width={412}  height={448}></Image>                  
+                    <Image src="/images/topo_modeloii.png" width={412}  height={448}></Image>                  
                 </div>
             </div>
         </div>
