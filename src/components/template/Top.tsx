@@ -3,7 +3,7 @@ import Image from 'next/image';
 
 export default function Top() {
     return (
-         <div className="flex justify-center items-center max-w-7xl mx-auto px-4 sm:mt-28 md:mt-20 lg:-mt-38 lg:-mb-12 xl:-mt-10">
+         <div className="flex justify-center items-center max-w-7xl mx-auto px-4 sm:mt-28 md:mt-20 lg:-mt-38 lg:-mb-12 xl:-mt-20">
             <div className="grid justify-center place-items-center sm:grid-cols-1 md:grid-cols-2 xl:grid-cols-2 gap-2">
                 <div>
                      <h1 className="text-blue font-mt font-bold text-tth1 mb-4 text-left">Preserve a qualidade, os valores<br/>e a cultura da sua empresa, mesmo em home office.</h1>
