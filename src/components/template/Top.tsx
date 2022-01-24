@@ -4,7 +4,7 @@ import Image from 'next/image';
 export default function Top() {
     return (
         <div className=''>
-               <div className="pl-4 pt-2 md:pl-20 md:pt-5 lg:pl-18 xl:pl-14 2xl:pl-60">
+               <div className="pl-4 pt-2 md:pl-20 md:pt-5 lg:pl-18 xl:pl-14 2xl:pl-96">
                 <a href="https://maestrus.com"><Image src="/images/logomaestrusii.png" width={300} height={77} alt="Logotipo Maestrus"/></a>
                 </div>
 
