@@ -5,9 +5,9 @@ export default function Footer() {
     return (
     <div>
        <div className="flex justify-center items-center ">
-          <h2 className="text-blue font-mt font-bold text-tth1 mb-9 px-4 md: px-0">Perguntas Frequentes (FAQ)</h2>
+          <h2 className="text-blue font-mt font-bold text-tth1 mb-9 px-4 md:px-0 2xl:px-0">Perguntas Frequentes (FAQ)</h2>
       </div>
-      <div className="flex justify-center items-center max-w-7xl mx-auto px-24">
+      <div className="flex justify-center items-center max-w-7xl mx-auto px-24 2xl:px-0">
          <ul className="list-disc">
             <li className="font-mt text-gray mb-8"><strong>O que é uma plataforma EAD?</strong>
             <p className="leading-6 text-ftsqr  font-pp text-titles text-gray">Plataforma de Ensino a Distância é um sistema que te permite hospedar cursos, treinamentos, video aulas, para que outras pessoas assistam e aprendam a distância, de forma online.</p>

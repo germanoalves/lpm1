@@ -3,7 +3,7 @@ import Image from 'next/image';
 export default function Cardsone() {
     return (
     <div className="z-0 max-w-6xl mx-auto px-4 sm:px-6 lg:px-4 mt-12 mb-12 sqrs1">
-       <div className="grid  items-center justify-items-center grid-cols-1 sm:grid-cols-2 md:grid-cols-3 xl:grid-cols-3 gap-4">
+       <div className="grid gap-4  grid-cols-1 items-center justify-items-center  sm:grid-cols-2 md:grid-cols-3 xl:grid-cols-3">
           <div className="flex flex-col h-full items-center justify-center p-6 sqr1 transition duration-500 ease-in-out  hover: transform hover:-translate-y-1 hover:scale-110">
              <div className="inline-flex  overflow-hidden ">
                 <Image src="/images/icon_treinamentos.svg" width="300" height="200" alt="Treinamentos Corporativos Maestrus"/>

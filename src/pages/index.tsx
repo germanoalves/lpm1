@@ -34,10 +34,10 @@ export default function Home() {
         <link rel="shortcut icon" href="/favico.ico" />
         </Head>
      </div>
-      <div className="bg-img-top bg-no-repeat bg-cover bg-left-bottom xl: pt-5"> 
-        <Logo></Logo>
+      <div className="bg-img-top  bg-no-repeat bg-cover bg-left-bottom xl:pt-5"> 
         
-        <div className="xl:pt-40 flex text-center justify-center">
+        
+        <div className="">
         <Top></Top>
         </div>
       </div>
