@@ -3,7 +3,7 @@ import Image from 'next/image';
 
 export default function Top() {
     return (
-        <div className='-mb-10 pl-0 md:pl-2 xl:pl-6 2xl:pl-0'>
+        <div className='-mb-10 pl-0 sm:pl-2 md:pl-6 xl:pl-6 2xl:pl-0'>
                 <div  className="top-0">
                     <div className="max-w-7xl mx-auto flex flex-wrap items-center mt-0 py-2">
                         <div className="pl-4 flex items-center">
