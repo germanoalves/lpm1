@@ -3,7 +3,7 @@ import Image from 'next/image';
 
 export default function Top() {
     return (
-        <div className='-mb-10 pl-0  pt-6 sm:pl-2 md:pl-6 xl:pl-6 2xl:pl-0'>
+        <div className='-mb-12 pl-0  pt-6 sm:pl-2 md:pl-6 xl:pl-6 2xl:pl-0'>
                 <div  className="top-0">
                     <div className="max-w-7xl mx-auto flex flex-wrap items-center mt-0 py-2">
                         <div className="pl-4 flex items-center">
@@ -11,10 +11,10 @@ export default function Top() {
                         </div>
                     </div>
                 </div>
-                <div className="mt-6 sm:mt-10 md:-mt-10 xl:-mt-12 2xl:-mt-14 ">
+                <div className="mt-6 sm:mt-10 md:-mt-28 xl:-mt-12 2xl:-mt-14 ">
                     <div className="max-w-7xl px-3 mx-auto flex flex-wrap flex-col md:flex-row items-center">
                         
-                        <div className="flex flex-col w-full md:w-3/5 justify-center items-start text-center md:text-left">
+                        <div className="flex flex-col md:mt-20 w-full md:w-3/5 justify-center items-start text-center md:text-left">
                             <h1 className="text-blue font-mt font-bold text-tth1 mb-4 text-left">Preserve a qualidade, os valores e a cultura da sua empresa, mesmo em home office.</h1>
                             <p className="text-titles text-2xftsqr font-pp text-left">Diminua gastos com aluguéis, infraestrutura e deslocamente. Faça entrevistas, contrate e <strong>treine</strong> toda a sua equipe,<br/>através da internet.</p>
                         </div>
