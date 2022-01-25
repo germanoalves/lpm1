@@ -1,11 +1,11 @@
 export default function Cardfive() {
     return (
-        <div className="flex justify-center items-center md:max-w-7xl mx-auto my-20 sm:px-4">
-            <div className="grid grid-cols-1  justify-center items-center rounded-2xl shadow-2xl px-8 md:grid-cols-2  md:py-10 gap-4">
+        <div className="flex justify-center px-0 items-center md:max-w-7xl mx-auto my-20 sm:px-4">
+            <div className="grid grid-cols-1  justify-center items-center rounded-2xl shadow-2xl px-6 md:grid-cols-2  md:py-10 gap-4">
                 <div>
                     <iframe className=" rounded-lg w-full h-64 sm:w-full md:px-0 md:w-full md:h-96"  src="https://www.youtube.com/embed/0abPNVOt_-U?controls=0" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"></iframe>
                 </div>
-                <div className="px-3 my-6">
+                <div className="px-0 my-6">
                     <h2 className="text-blue font-mt font-bold text-tth1 mb-4">Com o Maestrus você tem o poder do ensino disponível a qualquer hora, em qualquer lugar.</h2>
                     <p className="leading-6 text-ftsqr  font-pp text-titles text-gray">Conheça tudo o que o Maestrus pode lhe oferecer em menos de 10 minutos.
                     </p>
