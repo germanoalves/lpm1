@@ -5,7 +5,7 @@ import Link from 'next/link'
 
 export default function Ctatop() {
     return (
-        <div className="flex justify-center items-center px-4 py-0 md:py-14 mb-1 md:-mt-10 lg:mt-4 xl:mt-10">
+        <div className="flex justify-center items-center px-4 py-0 mt-10 mb-1 sm:mt-10 md:py-14 md:-mt-10 lg:mt-4 xl:mt-10">
             <div className="text-center 2xl:max-w-screen-2xl">
                 <p className="font-pp text-gray md:mb-10 lg:mb-5">Veja como é fácil realizar o treinamento online de suas equipes e acompanhar<br/>todo o desempenho e progresso, de forma individual.</p>
                 <h3 className="text-orange font-mt font-bold font-ftctatop">Conheça gratuitamente a plataforma utilizada<br/>por centenas de empresas!</h3>
