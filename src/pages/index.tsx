@@ -34,28 +34,30 @@ export default function Home() {
         <link rel="shortcut icon" href="/favico.ico" />
         </Head>
      </div>
-      <div className="bg-img-top  bg-no-repeat bg-cover bg-left-bottom xl:pt-5"> 
-        
-        
-        <div className="">
-        <Top></Top>
-        </div>
+      <div className=''>
+          <div className="bg-img-top  bg-no-repeat bg-cover bg-left-bottom"> 
+                        
+            <div>
+              
+            <Top></Top>
+            </div>
+          </div>
+      
+          <div  className="Cardstwo">
+            <Cardstwo></Cardstwo>
+          </div>
+          <div  className="Cardstree">
+            <Cardstree></Cardstree>
+          </div>
+          <div className="Cardstree">
+            <Cardfour></Cardfour>
+          </div>
+          <div className="Cardfive">
+            <Cardfive></Cardfive>
+          </div>
+          <div><Footer></Footer></div>
+          <div><Ctafooter></Ctafooter></div>
       </div>
-  
-      <div  className="Cardstwo">
-        <Cardstwo></Cardstwo>
-      </div>
-      <div  className="Cardstree">
-        <Cardstree></Cardstree>
-      </div>
-      <div className="Cardstree">
-        <Cardfour></Cardfour>
-      </div>
-      <div className="Cardfive">
-        <Cardfive></Cardfive>
-      </div>
-      <div><Footer></Footer></div>
-      <div><Ctafooter></Ctafooter></div>
     </>
     
   )
