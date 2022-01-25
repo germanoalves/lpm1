@@ -11,7 +11,7 @@ export default function Top() {
                         </div>
                     </div>
                 </div>
-                <div className="pt-12">
+                <div className="-mt-6">
                     <div className="max-w-7xl px-3 mx-auto flex flex-wrap flex-col md:flex-row items-center">
                         
                         <div className="flex flex-col w-full md:w-3/5 justify-center items-start text-center md:text-left">
