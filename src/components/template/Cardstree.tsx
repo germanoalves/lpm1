@@ -9,7 +9,7 @@ export default function Cardtree() {
          </p>
       </div>
          <div className="max-w-6xl mx-auto px-4 mt-12 mb-12 sm:px-6 lg:px-4 2xl:px-0">
-            <div className="grid items-center justify-items-center  grid-cols-1 sm:grid-cols-1 md:grid-cols-3 xl:grid-cols-4 gap-4">
+            <div className="grid items-center justify-items-center  grid-cols-1 sm:grid-cols-2 md:grid-cols-2 lg:grid-cols-2 xl:grid-cols-4 gap-1">
                <div className="sqr2 group  rounded-lg overflow-hidden  hover:shadow-2xl transform duration-200">
                   <div className="inline-flex items-center ">
                      <Image src="/images/icon_estabilidade.svg" width={300} height={190} alt="Estabilidade & Entrega Maestrus"/>

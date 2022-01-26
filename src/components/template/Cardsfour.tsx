@@ -29,8 +29,8 @@ export default function Cardfour() {
                   
                </div>
             </div>
-            <div className="flex justify-center items-center my-16">
-                <hr className=" w-32 border border-blue"/>
+            <div className="flex justify-center items-center my-6 sm:my-16">
+                <hr className=" w-32 border border-blue hidden sm:flex"/>
             </div>            
             <h2 className="text-blue font-mt font-bold text-tth1 mb-4 text-left sm:text-justify">Já são mais de 6 anos oferecendo um serviço de qualidade e muita parceria…</h2>
             <p className="text-titles text-2xftsqr font-pp text-justify">
