@@ -5,7 +5,7 @@ import Link from 'next/link'
 
 export default function Ctafooter() {
     return (
-        <div className="flex justify-center items-center py-10 px-4 text-left">
+        <div className="flex justify-center items-center pt-20 pb-40 px-4 text-left">
             <div className="text-center">
                     <h3 className="text-blue font-mt font-bold text-tth1 mb-4 text-center ">Conheça e experimente a nossa plataforma,<br/><span className="text-orange">sem pagar nada</span> por isso!</h3>
                 <div className="md:inline-block md:text-right"> 
