@@ -3,7 +3,7 @@ export default function Cardfour() {
     return (
         <div className=" max-w-7xl mx-auto px-4 sm:px-6 lg:px-9 lg:mt-12 lg:mb-12 2xl:px-0">
             <h2 className="text-blue font-mt font-bold text-tth1 mb-16 text-left sm:text-justify ">Veja empresas que já estão utilizando a plataforma em seu ambiente corporativo</h2>
-            <div className="grid gap-4 items-center justify-items-center grid-cols-1 md:grid-cols-3 xl:grid-cols-4">
+            <div className="grid gap-4 items-center justify-items-center grid-cols-1 sm:grid-cols-2 md:grid-cols-4 md:gap-10 lg:grid-cols-4 xl:grid-cols-4">
                <div className="group  rounded-lg">
                   <div className="inline-flex items-center ">
                      <Image src="/images/risklogo.png" width={140} height={140} alt="cliente Maestrus Risck Assess Brasil"/>
@@ -29,8 +29,8 @@ export default function Cardfour() {
                   
                </div>
             </div>
-            <div className="flex justify-center items-center my-6 sm:my-16">
-                <hr className=" w-32 border border-blue hidden sm:flex"/>
+            <div className="flex justify-center items-center my-6 sm:my-4">
+                <hr className=" w-32 border border-blue hidden sm:hideen md:flex"/>
             </div>            
             <h2 className="text-blue font-mt font-bold text-tth1 mb-4 text-left sm:text-justify">Já são mais de 6 anos oferecendo um serviço de qualidade e muita parceria…</h2>
             <p className="text-titles text-2xftsqr font-pp text-justify">

@@ -8,8 +8,8 @@ export default function Cardtree() {
             Escolas, professores e empresas que queiram oferecer algum curso ou treinamento de maneira online, totalmente a distância, podem hospedar o seu conteúdo sem dificuldades ou dores de cabeça em nossa plataforma, enquanto nós:
          </p>
       </div>
-         <div className="max-w-6xl mx-auto px-4 mt-12 mb-12 sm:px-6 lg:px-4 2xl:px-0">
-            <div className="grid items-center justify-items-center  grid-cols-1 sm:grid-cols-2 md:grid-cols-2 lg:grid-cols-2 xl:grid-cols-4 gap-1">
+         <div className="max-w-6xl mx-auto px-4 mt-12 mb-12 sm:px-6 md:px-8 lg:px-4 2xl:px-0">
+            <div className="grid items-center justify-items-center  grid-cols-1  gap-1 sm:grid-cols-2 md:grid-cols-4 md:gap-14 lg:grid-cols-4 xl:grid-cols-4">
                <div className="sqr2 group  rounded-lg overflow-hidden  hover:shadow-2xl transform duration-200">
                   <div className="inline-flex items-center ">
                      <Image src="/images/icon_estabilidade.svg" width={300} height={190} alt="Estabilidade & Entrega Maestrus"/>
