@@ -12,14 +12,14 @@ export default function Top() {
                     </div>
                 </div>
                 <div className="mt-6 sm:mt-10 md:-mt-28 xl:-mt-12 2xl:-mt-14 ">
-                    <div className="max-w-7xl px-3 mx-auto flex flex-wrap flex-col md:flex-row items-center sm:mt-0 sm:mb-0 md:mt-0 md:mb-0 lg:-mt-40 lg:-mb-28 xl:mt-0 xl:mb-0 2xl:mt-0 2xl:mb-0">
+                    <div className="max-w-7xl px-3 mx-auto flex flex-wrap flex-col md:flex-row items-center sm:mt-0 sm:mb-0 md:mt-0 md:mb-0 lg:-mt-46 lg:-mb-28 xl:-mt-28 xl:mb-0 2xl:mt-0 2xl:mb-0">
                         
                         <div className="flex flex-col md:mt-20 w-full md:w-3/5 justify-center items-start text-center md:text-left">
                             <h1 className="text-blue font-mt font-bold text-tth1 mb-4 text-left">Preserve a qualidade, os valores e a cultura da sua empresa, mesmo em home office.</h1>
                             <p className="text-titles text-2xftsqr font-pp text-left">Diminua gastos com aluguéis, infraestrutura e deslocamente. Faça entrevistas, contrate e <strong>treine</strong> toda a sua equipe,<br/>através da internet.</p>
                         </div>
                         
-                        <div className="md:w-2/5 py-6 text-center sm:p-0 md:p-12 lg:p-20 xl:p-0 2xl:p-0">
+                        <div className="md:w-2/5 py-6 text-center sm:p-0 md:p-12 lg:p-20 xl:p-4 2xl:p-0">
                             <Image src="/images/topo_modeloii.png" width={366}  height={349}></Image>
                         </div>
                     </div>
