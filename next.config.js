@@ -20,7 +20,7 @@ module.exports = {
   async rewrites() {
     return [
       {
-        source: '/:any*',
+        source: '/empresas',
         destination: '/',
       },
     ];
