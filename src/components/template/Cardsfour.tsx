@@ -34,7 +34,7 @@ export default function Cardfour() {
             <div className="text-center 2xl:max-w-screen-2xl">
                <div className="md:inline-block md:text-right"> 
                 <div>
-                    <a href="#"><button type='button' className="z-10 cursor-pointer bg-orange hover:bg-horange py-4 px-2 rounded-md text-white text-ft font-pp font-extra-bold  mt-6 relative sm:px-16 sm:py-4 sm:text-ft sm:font-extra-bold sm:mt-6 md:px-6 md:py-2 md:font-sm md:font-extra-bold md:text-ft md:mt-6 lg:px-4 lg:py-6  lg:mt-2  xl:px-16 xl:py-4 xl:text-ft xl:font-extra-bold  xl:mt-6 2lx:px-16 2xl:py-4 2xl:text-ft 2xl:font-extra-bold 2xl:mt-6 ">Quero Ver Como Isso Funciona Para o Meu Negócio</button></a>
+                    <a href="https://maestrus.com/teste-gratis/"><button type='button' className="z-10 cursor-pointer bg-orange hover:bg-horange py-4 px-2 rounded-md text-white text-ft font-pp font-extra-bold  mt-6 relative sm:px-16 sm:py-4 sm:text-ft sm:font-extra-bold sm:mt-6 md:px-6 md:py-2 md:font-sm md:font-extra-bold md:text-ft md:mt-6 lg:px-4 lg:py-6  lg:mt-2  xl:px-16 xl:py-4 xl:text-ft xl:font-extra-bold  xl:mt-6 2lx:px-16 2xl:py-4 2xl:text-ft 2xl:font-extra-bold 2xl:mt-6 ">Quero Ver Como Isso Funciona Para o Meu Negócio</button></a>
                 </div>
                                
                 <div className="mt-4 md:flex md:items-center md:justify-center"><span className="text-gray">Dezenas de empresas já estão utilizando!</span></div>
