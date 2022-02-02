@@ -7,13 +7,23 @@ module.exports = {
     { dev, dir, outDir, distDir, buildId }
   ) {
     return {
-      '/empresas': { page: '/' },
+      '/': { page: '/' },
       
      }
   },
+  
   images: {
     loader: "default",
     
+  },
+  
+  async rewrites() {
+    return [
+      {
+        source: '/:any*',
+        destination: '/',
+      },
+    ];
   },
 
 }
