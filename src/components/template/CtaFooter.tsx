@@ -3,7 +3,6 @@
 import Image from 'next/image';
 import Link from 'next/link'
 
-
 export default function Ctafooter() {
     return (
         <div className="flex justify-center items-center pt-20 pb-40 px-4 text-left">
