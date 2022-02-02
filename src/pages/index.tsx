@@ -26,8 +26,8 @@ export default function Home() {
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <meta property="og:locale" content="pt_BR"/>
         <meta property="og:type" content="website" />
-        <meta property="og:title" content="Landing Page Maestrus" />
-        <meta property="og:description" content="Maestrus - Sua plataforma de ensino a distância" />
+        <meta property="og:title" content="Plataforma Ead para Empresas" />
+        <meta property="og:description" content="Treine seus Colaboradores Online!" />
         <meta property="og:url" content="https://maestrus.com" />
         <meta property="og:site_name" content="Maestrus" />
         <meta property="og:image" content= "https://site.mstatic.com.br/img/home/educacao_a_distancia.png" />
