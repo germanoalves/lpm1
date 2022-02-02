@@ -10,7 +10,7 @@ export default function Ctafooter() {
                     <h3 className="text-blue font-mt font-bold text-tth1 mb-4 text-center ">Conheça e experimente a nossa plataforma,<br/><span className="text-orange">sem pagar nada</span> por isso!</h3>
                 <div className="md:inline-block md:text-right"> 
                     <div>
-                        <Link href="https://maestrus.com/teste-gratis/?frm=2/" passHref={true}>
+                        <Link href="https://maestrus.com/teste-gratis/?frm=2" passHref={true}>
                             <button className="z-10 cursor-pointer bg-orange hover:bg-horange py-4 px-2 rounded-md text-white text-ft font-pp font-extra-bold tracking-wide mt-6 relative md:px-16 md:py-4">Quero Experimentar a Plataforma</button>
                         </Link>
                     </div>
