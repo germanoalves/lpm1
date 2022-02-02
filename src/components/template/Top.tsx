@@ -7,7 +7,7 @@ export default function Top() {
                 <div  className="top-0">
                     <div className="max-w-7xl mx-auto flex flex-wrap items-center mt-0 py-2">
                         <div className="pl-4 flex items-center">
-                            <a href="https://maestrus.com"><Image src="/images/logomaestrusii.png" width={300} height={77} alt="Logotipo Maestrus"/></a>
+                            <a href="/"><Image src="/images/logomaestrusii.png" width={300} height={77} alt="Logotipo Maestrus"/></a>
                         </div>
                     </div>
                 </div>
