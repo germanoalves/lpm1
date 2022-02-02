@@ -1,4 +1,6 @@
 import Image from 'next/image';
+import Link from 'next/link';
+
 export default function Cardfour() {
     return (
         <div className=" max-w-7xl mx-auto px-4 sm:px-6 lg:px-9 lg:mt-12 lg:mb-12 2xl:px-0">
