@@ -39,8 +39,9 @@ export default function Home() {
           </Head>
       </div>
       <body>      
-          <noscript dangerouslySetInnerHTML={{ __html: `<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-K234267"
-            height="0" width="0" style="display:none;visibility:hidden"></iframe>`}}></noscript>
+            <noscript dangerouslySetInnerHTML={{ __html: `<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-K234267"
+              height="0" width="0" style="display:none;visibility:hidden"></iframe>`}}>
+            </noscript>
               <div className=''>
                   <div className="bg-img-top  bg-no-repeat bg-cover bg-left-bottom">             
                   <div>
