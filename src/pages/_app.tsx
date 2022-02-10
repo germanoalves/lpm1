@@ -5,7 +5,6 @@ import Router from 'next/router';
 import React, {useEffect } from 'react';
 import { GTMPageView } from '../utils/gtm';
 
-
 function MyApp({ Component, pageProps }: AppProps) {
   // Initiate GTM
   useEffect(() => {
