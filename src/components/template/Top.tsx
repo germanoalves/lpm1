@@ -19,7 +19,7 @@ export default function Top() {
                         
                         <div className="flex flex-col md:mt-20 w-full md:w-3/5 justify-center items-start text-center md:text-left">
                             <h1 className="text-blue font-mt font-bold text-tth1 mb-4 text-left">Preserve a qualidade, os valores e a cultura da sua empresa, mesmo em home office.</h1>
-                            <p className="text-titles text-2xftsqr font-pp text-left">Diminua gastos com aluguéis, infraestrutura e deslocamente. Faça entrevistas, contrate e <strong>treine</strong> toda a sua equipe, através da internet.</p>
+                            <p className="text-titles text-2xftsqr font-pp text-left">Diminua gastos com aluguéis, infraestrutura e deslocamento. Faça entrevistas, contrate e <strong>treine</strong> toda a sua equipe, através da internet.</p>
                         </div>
                         
                         <div className="md:w-2/5 py-6 text-center sm:p-0 md:p-12 lg:p-20 xl:p-6 2xl:p-0">
